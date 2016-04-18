@@ -1,0 +1,25 @@
+{
+  "name": "current-year",
+  "description": "Get the current year.",
+  "keywords": [
+    "current",
+    "year",
+    "get",
+    "the"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/current-year.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/current-year/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/current-year#readme"
+}
