@@ -7,7 +7,6 @@
 ```sh
 $ npm i --save current-year
 ```
-
             
 ## :clipboard: Example
 
