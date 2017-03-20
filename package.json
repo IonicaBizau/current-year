@@ -8,12 +8,12 @@
     "the"
   ],
   "license": "MIT",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "main": "lib/index.js",
   "scripts": {
     "test": "node test"
   },
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/IonicaBizau/current-year.git"
@@ -29,12 +29,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
