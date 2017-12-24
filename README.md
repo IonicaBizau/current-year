@@ -10,7 +10,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save current-year
+# Using npm
+npm install --save current-year
+
+# Using yarn
+yarn add current-year
 ```
 
 
